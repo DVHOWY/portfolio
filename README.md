@@ -27,3 +27,10 @@ My name is Kacper Lipiński, i am a software tester.
 # Certificates
 
 * **ISTQB** Certified tester
+
+# Courses
+
+* [CodersLab Tester manualny](https://coderslab.pl/pl/kurs/tester-manualny/o-kursie)
+* [CodersLab Tester automatyzujący](https://coderslab.pl/pl/kurs/tester-automatyzujacy/o-kursie)
+
+#
