@@ -24,3 +24,6 @@ My name is Kacper Lipiński, i am a software tester.
 * Reporting bugs
 * Creating diagrams 
 
+# Certificates
+
+* **ISTQB** Certified tester
