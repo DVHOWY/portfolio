@@ -1,3 +1,3 @@
 # Portfolio
 # O mnie 
-Jestem testerem oprogramowania
+Nazywam się Kacper Lipiński, jestem testerem oprogramowania.
