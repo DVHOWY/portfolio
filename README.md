@@ -17,4 +17,10 @@ My name is Kacper Lipiński, i am a software tester.
 
 # Tech skills
 
-* 
+* MySQL
+* SCRUM
+* Software testing
+* Creating test cases
+* Reporting bugs
+* Creating diagrams 
+
