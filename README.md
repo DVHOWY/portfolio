@@ -5,14 +5,16 @@ My name is Kacper Lipiński, i am a software tester.
 
 # Tools
 
-[Jira](https://www.atlassian.com/pl/software/jira)
+* [Jira](https://www.atlassian.com/pl/software/jira)
 
-[Postman](https://www.postman.com/)
+* [Postman](https://www.postman.com/) 
 
-[MySQL Workbench](https://www.mysql.com/)
+* [MySQL Workbench](https://www.mysql.com/)
 
-[SoapUI](https://www.soapui.org/)
+* [SoapUI](https://www.soapui.org/)
 
-[TestLink](https://en.wikipedia.org/wiki/TestLink)
+* [TestLink](https://en.wikipedia.org/wiki/TestLink)
 
 # Tech skills
+
+* 
