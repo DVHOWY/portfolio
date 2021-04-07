@@ -33,4 +33,16 @@ My name is Kacper Lipiński, i am a software tester.
 * [CodersLab Tester manualny](https://coderslab.pl/pl/kurs/tester-manualny/o-kursie)
 * [CodersLab Tester automatyzujący](https://coderslab.pl/pl/kurs/tester-automatyzujacy/o-kursie)
 
-#
+# Groups on Facebook
+
+* Tester oprogramowania - wsparcie na starcie
+* Testowanie oprogramowania
+* ISTQB
+
+# Recommended blogs
+
+* testerzy.pl
+* testuj.pl
+
+# My projects
+*
