@@ -5,6 +5,8 @@ My name is Kacper Lipiński, i am a software tester.
 
 # Tools
 
+* Windows/iOS-Big Sur
+
 * [Jira](https://www.atlassian.com/pl/software/jira)
 
 * [Postman](https://www.postman.com/) 
