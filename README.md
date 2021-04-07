@@ -1,3 +1,3 @@
 # Portfolio
-# O mnie 
-Nazywam się Kacper Lipiński, jestem testerem oprogramowania.
+# About me 
+My name is Kacper Lipiński, i am a software tester.
